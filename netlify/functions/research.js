@@ -1,0 +1,1 @@
+{"id":"/netlify/functions/research.js","path":"/netlify/functions/research.js","sha":"5fef55628169ced4b10f36ae7c31cfba7c9e5ffc","mime_type":"application/javascript","size":8406,"site_id":"712b5ad6-57b4-4b5e-a8e1-97c56623202c","deploy_id":"69c167f99c56b761954f3fd4"}
